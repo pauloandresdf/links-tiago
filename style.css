@@ -29,6 +29,7 @@ header {
     height: 40px;
     border-radius: 20px;
     background-color: rgb(240, 240, 240);
+    
 }
 
 .container {
@@ -85,6 +86,7 @@ h1 {
     margin: 7px;
     width: 40px;
     height: 40px;
+    text-decoration: none;
 }
 
 .tile-share-button svg {
