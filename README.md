@@ -1,4 +1,3 @@
-**Links TIAGO**
 
 ## 1. Descrição do Projeto
 
