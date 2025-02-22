@@ -11,7 +11,6 @@ A aplicação utiliza tecnologias modernas para garantir uma experiência simple
 
 - **Catálogo de Links**: Uma lista organizada de links categorizados ou priorizadas.
 - **Responsividade**: Interface adaptável para dispositivos móveis e desktops.
-- **Personalização**: Possibilidade de adicionar, remover ou atualizar links conforme necessário.
 - **Integração com APIs**: Suporte para integração com serviços externos, como redes sociais ou plataformas de hospedagem de conteúdo.
 - **Interface Simples**: Fácil navegação e visualização dos links.
 
