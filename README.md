@@ -1,7 +1,7 @@
 
 ## 1. Descrição do Projeto
 
-O projeto **Links TIAGO** é uma aplicação web desenvolvida para facilitar o compartilhamento de links úteis relacionados ao conteúdo produzido por Tiago ( criador de conteúdo profissional). Foi meu primeiro Freelancer. Ele serve como uma plataforma centralizada onde os usuários podem acessar rapidamente links importantes, como redes sociais, cursos, artigos, vídeos e outros materiais relevantes. Foi um dos meus primeiros serviços Freelancer.
+O projeto **Links TIAGO** é uma foi uma frela web desenvolvido para facilitar o compartilhamento de links úteis relacionados ao conteúdo produzido por Tiago ( criador de conteúdo profissional). Foi meu primeiro Freelancer. Ele serve como uma plataforma centralizada onde os usuários podem acessar rapidamente links importantes, como redes sociais, cursos, artigos, vídeos e outros materiais relevantes. Foi um dos meus primeiros serviços Freelancer.
 
 A aplicação utiliza tecnologias modernas para garantir uma experiência simples, responsiva e eficiente. O design minimalista e intuitivo permite que qualquer pessoa navegue facilmente pelos links disponibilizados.
 
