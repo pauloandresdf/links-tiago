@@ -7,7 +7,7 @@ A aplicação utiliza tecnologias modernas para garantir uma experiência simple
 
 ---
 
-## 2. Funcionalidades Principais
+## 2. Funcionalidades Principais:
 
 - **Catálogo de Links**: Uma lista organizada de links categorizados ou priorizadas.
 - **Responsividade**: Interface adaptável para dispositivos móveis e desktops.
